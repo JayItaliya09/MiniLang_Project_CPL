@@ -1,0 +1,11 @@
+let name = "Alice"
+let greeting = "Hello"
+print greeting
+if name == "Alice" then
+    print "Welcome back!"
+else
+    print "Who are you?"
+end
+loop i from 1 to 3 do
+    print "Looping!"
+end
